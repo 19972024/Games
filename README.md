@@ -1,2 +1,7 @@
-# Games
-A los of fun games in python
+Games
+
+
+        else:
+            print("Invalid input. Type 'y' or 'n'.")
+
+blackjack()
